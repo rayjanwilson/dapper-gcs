@@ -3,6 +3,23 @@
 
 node.js + HTML5 UAV ground station software emphasizing data collection and mission operations.
 
+### About GitHub
+
+GitHub is an online depository for software code that manages/controls versions of software. It helps coordinate bug tracking and other software development project management tasks that resemble social networking functions.
+
+Because it is online (a repository), the code is typically in the open source (licensing) and developers working with it are allowed to “fork” (copy someone else’s code) to create your own version of the code.
+
+Most GitHub software tutorials are aimed for software developers. Some of the concepts are therefore particular to programmers.
+
+The following links will help you become familiar if you are a beginner.
+
+- https://guides.github.com/
+- http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/#awesm=~ozPD6YvCnb0F2a
+- http://readwrite.com/2013/10/02/github-for-beginners-part-2/#awesm=~ozPGei5yw2Fvwt
+- https://try.github.io/levels/1/challenges/1
+- http://gitref.org/index.html
+- http://rogerdudler.github.io/git-guide/
+
 ### Installation (for development)
 
 #### Prerequisites
