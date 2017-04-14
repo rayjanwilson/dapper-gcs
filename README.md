@@ -3,6 +3,10 @@
 
 node.js + HTML5 UAV ground station software emphasizing data collection and mission operations.
 
+### Video Demonstration
+
+https://youtu.be/TxE2ZPOfpyQ
+
 ### About GitHub
 
 GitHub is an online depository for software code that manages/controls versions of software. It helps coordinate bug tracking and other software development project management tasks that resemble social networking functions.
